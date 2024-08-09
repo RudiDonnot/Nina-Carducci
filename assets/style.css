@@ -6,10 +6,25 @@ body {
   font-family: "Inter";
   font-style: normal;
 }
-
+/* CHANGEMENTS DU CSS */
 img {
   object-fit: cover;
 }
+
+.picture.left img {
+  width: 555px;
+  height: 553px;
+}
+.carousel-item {
+  width: 1920px;
+  height: 880px;
+}
+
+.gallery img {
+  width: 466px;
+  height: 621px;
+}
+/* FIN DES CHANTEMENTS DU CSS */
 .top-header {
   background-color: white;
   position: sticky;
