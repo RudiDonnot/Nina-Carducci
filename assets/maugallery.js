@@ -106,7 +106,6 @@
     responsiveImageItem(element) {
       if (element.prop("tagName") === "IMG") {
         element.addClass("img-fluid");
-        element.setAttribute("alt", "Photography");
       }
     },
     openLightBox(element, lightboxId) {
