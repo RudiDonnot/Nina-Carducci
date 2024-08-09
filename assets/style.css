@@ -11,7 +11,7 @@ img {
   object-fit: cover;
 }
 
-.picture.left img {
+#about img {
   width: 555px;
   height: 553px;
 }
