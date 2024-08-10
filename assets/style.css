@@ -12,19 +12,24 @@ img {
 }
 
 #about img {
-  width: 555px;
-  height: 553px;
+  width: 560px;
+  height: 559px;
 }
-.carousel-item {
-  width: 1920px;
-  height: 880px;
+.carousel-item img {
+  width: 1920;
+  height: 889px;
 }
 
 .gallery img {
-  width: 380px;
-  height: 380px;
+  width: 440px;
+  height: 440px;
+}
+.picture.right {
+  width: 419px;
+  height: 418px;
 }
 /* FIN DES CHANTEMENTS DU CSS */
+
 .top-header {
   background-color: white;
   position: sticky;
