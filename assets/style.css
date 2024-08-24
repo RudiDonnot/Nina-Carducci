@@ -16,7 +16,7 @@ img {
   height: 559px;
 }
 .carousel-item img {
-  width: 1920;
+  width: 1920px;
   height: 889px;
 }
 
@@ -46,18 +46,18 @@ img {
   font-size: 26px;
 }
 
-.nav ul {
+.navigation ul {
   display: flex;
   list-style-type: none;
   font-size: 14px;
   margin-bottom: 0;
 }
 
-.nav li {
+.navigation li {
   padding-inline: 10px;
 }
 
-.nav a {
+.navigation a {
   text-decoration: none;
   color: #000;
 }
@@ -120,7 +120,7 @@ img {
   text-align: center;
   padding-block: 2em;
 }
-.gallery .nav {
+.gallery .navigation {
   justify-content: center;
 }
 .nav-pills .nav-link.active,
@@ -348,12 +348,12 @@ input[type="submit"] {
     flex-direction: column;
     padding-inline: 0;
   }
-  .top-header .nav,
-  .top-header .nav ul {
+  .top-header .navigation,
+  .top-header .navigation ul {
     width: 100%;
     padding: 0 0 0 0;
   }
-  .top-header .nav li {
+  .top-header .navigation li {
     flex: 1;
     padding-block: 1em;
     text-align: center;
